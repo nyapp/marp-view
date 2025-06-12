@@ -4,6 +4,6 @@ title: Intro Slide
 paginate: true
 ---
 
-# Hello, Marp!!
+# Hello, Marp!
 
 これはMarpで作ったスライド。
